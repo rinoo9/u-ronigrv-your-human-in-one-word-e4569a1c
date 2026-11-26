@@ -10,7 +10,12 @@ word every run.
 import os
 import sys
 
-ENTRY = "Lanjut"  # Indonesian for "carry on": his answer to everything.
+ENTRY = "Gas"  # Indonesian for "go / floor it": his other answer to everything.
+
+# Round 2: the first word was "Lanjut" (carry on). "Gas" is the same human
+# from the other side: he does not merely continue, he accelerates — every
+# approval is "Gas", every new bounty, mint or idea gets the throttle, not
+# the brake. One syllable, full speed.
 
 
 def main() -> None:
